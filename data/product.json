@@ -1,76 +1,86 @@
 [
   {
     "id": 1,
-    "slug": "classic-cotton-kurta-white",
-    "title": "Classic Cotton Kurta White",
-    "brand": "Fabindia",
+    "slug": "VASTRAMAY Men's White Cotton Kurta",
+    "title": "Classic White Cotton Kurta",
+    "brand": "VASTRAMAY",
     "category": "topwear",
     "subCategory": "kurtas",
     "images": [
-      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=600&fit=crop&sat=-50"
+      "https://m.media-amazon.com/images/I/51d8qJMcmqL._SY606_.jpg",
+      "https://m.media-amazon.com/images/I/41KUMtcYEhL._SY606_.jpg",
+      "https://m.media-amazon.com/images/I/41zFPKTXzKL._SY606_.jpg",
+      "https://m.media-amazon.com/images/I/51fE9+pW1cL._SY606_.jpg"
     ],
-    "price": 1299,
-    "originalPrice": 1899,
-    "rating": 4.3,
-    "reviewCount": 234,
+    "price": 630,
+    "originalPrice": 1999,
+    "rating": 4.7,
+    "reviewCount": 56,
     "description": "Traditional cotton kurta with comfortable fit for festive and casual wear.",
     "tags": ["traditional", "cotton", "festive"],
     "badges": ["Best Seller"],
     "material": "100% Cotton",
     "fit": "Regular",
-    "affiliateUrl": "https://www.flipkart.com/fabindia-cotton-kurta/p/itm7d2f8a9c1b4e5"
+    "affiliateUrl": "https://amzn.to/3UTeEev"
   },
   {
     "id": 2,
-    "slug": "nike-dri-fit-t-shirt-black",
-    "title": "Nike Dri-FIT Training T-Shirt",
+    "slug": "Nike Mens Cotton Relaxed",
+    "title": "Nike Men Cotton Relaxed Fit T-Shirt",
     "brand": "Nike",
     "category": "topwear",
     "subCategory": "t-shirts",
     "images": [
-      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600&h=600&fit=crop"
+      "https://m.media-amazon.com/images/I/71kpWzClI8L._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/619fJE1MF7L._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71Bg8crEyQL._SX679_.jpg"
+
+
     ],
-    "price": 1599,
-    "rating": 4.6,
-    "reviewCount": 892,
+    "price": 2500,
+    "originalPrice": 4700,
+    "rating": 4.7,
+    "reviewCount": 80,
     "description": "Moisture-wicking Dri-FIT technology keeps you dry and comfortable.",
     "badges": ["Trending"],
-    "affiliateUrl": "https://www.amazon.in/dp/B08K2N7Q5R"
+    "affiliateUrl": "https://amzn.to/4g2ksvX"
   },
   {
     "id": 3,
-    "slug": "polo-ralph-lauren-navy",
-    "title": "Polo Ralph Lauren Classic Fit",
-    "brand": "Ralph Lauren",
-    "category": "topwear",
-    "subCategory": "polo-t-shirts",
+    "slug": "Kraasa THE ASHFORD",
+    "title": "Men’s Stylish Vegan Leather Chelsea Boots ",
+    "brand": "Kraasa",
+    "category": "footwear",
+    "subCategory": "boots",
     "images": [
-      "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?w=600&h=600&fit=crop&hue=30"
+      "https://m.media-amazon.com/images/I/61fI8cozN8L._SX625_.jpg",
+      "https://m.media-amazon.com/images/I/61CN3Bt-noL._SX625_.jpg",
+      "https://m.media-amazon.com/images/I/71XtlNxVssL._SX625_.jpg"
     ],
-    "price": 2499,
+    "price": 1200,
     "originalPrice": 3199,
-    "rating": 4.4,
-    "reviewCount": 456,
-    "tags": ["polo", "classic", "premium"],
-    "material": "Cotton Pique",
-    "fit": "Classic",
-    "affiliateUrl": "https://www.myntra.com/tshirts/polo-ralph-lauren/polo-ralph-lauren-men-navy-blue-classic-fit-polo-t-shirt/15287654/buy"
+    "rating": 4.5,
+    "reviewCount": 45,
+    "tags": ["chelsea", "boots", "premium"],
+    "material": "Vegan leather",
+    "fit": "",
+    "affiliateUrl": "https://amzn.to/45IKaSz"
   },
   {
     "id": 4,
-    "slug": "levi-casual-shirt-blue",
-    "title": "Levi's Casual Denim Shirt",
-    "brand": "Levi's",
+    "slug": "Summer old money outfit",
+    "title": "Funky Dark Green Shirt",
+    "brand": "Funky's",
     "category": "topwear",
     "subCategory": "casual-shirts",
     "images": [
-      "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?w=600&h=600&fit=crop"
+      "https://m.media-amazon.com/images/I/71baSpWNJAL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/417WxqMdOmL._SY741_.jpg"
     ],
-    "price": 2199,
-    "description": "Classic denim casual shirt with button-down collar and chest pockets.",
-    "affiliateUrl": "https://www.ajio.com/levis-denim-casual-shirt/p/461456789_blue"
+    "price": 349,
+    "originalPrice": 1999,
+    "description": "Stylish and trending half-sleeve casual shirt with a soft finish and modern fit, perfect for smart casual looks in every season.",
+    "affiliateUrl": "https://amzn.to/4g9mxpC"
   },
   {
     "id": 5,
@@ -91,7 +101,7 @@
     "tags": ["formal", "office", "professional"],
     "badges": ["New"],
     "material": "Cotton Blend",
-    "affiliateUrl": "https://www.amazon.in/dp/B07N4F6P8Q"
+    "affiliateUrl": "https://amzn.to/4ngjH4v"
   },
   {
     "id": 6,

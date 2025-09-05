@@ -6,7 +6,8 @@
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
     "start": "next start",
-    "lint": "eslint"
+  "lint": "eslint",
+  "validate:data": "node scripts/validate-products.mjs"
   },
   "dependencies": {
     "framer-motion": "^12.23.12",
