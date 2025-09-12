@@ -25,13 +25,13 @@ const mensBrands = [
   {
     id: 4,
     name: 'Calvin Klein',
-    logo: 'https://logos-world.net/wp-content/uploads/2020/09/Calvin-Klein-Logo.png',
+    logo: 'https://logos-world.net/wp-content/uploads/2020/05/Calvin-Klein-Logo-700x394.png',
     bgColor: '#ffffff'
   },
   {
     id: 5,
     name: 'Tommy Hilfiger',
-    logo: 'https://logos-world.net/wp-content/uploads/2020/04/Tommy-Hilfiger-Logo.png',
+    logo: 'https://logos-world.net/wp-content/uploads/2020/04/Tommy-Hilfiger-Logo-700x394.png',
     bgColor: '#ffffff'
   },
   {
@@ -43,13 +43,13 @@ const mensBrands = [
   {
     id: 7,
     name: 'Levis',
-    logo: 'https://logos-world.net/wp-content/uploads/2020/11/Levis-Logo.png',
+    logo: 'https://logos-world.net/wp-content/uploads/2020/04/Levis-Logo-700x394.png',
     bgColor: '#ffffff'
   },
   {
     id: 8,
     name: 'Ralph Lauren',
-    logo: 'https://logos-world.net/wp-content/uploads/2020/04/Polo-Ralph-Lauren-Logo.png',
+    logo: 'https://logos-world.net/wp-content/uploads/2020/04/Ralph-Lauren-Logo-700x394.png',
     bgColor: '#ffffff'
   },
   {
@@ -73,13 +73,14 @@ const mensBrands = [
   {
     id: 12,
     name: 'Armani',
-    logo: 'https://logos-world.net/wp-content/uploads/2020/09/Armani-Logo.png',
+    logo: 'https://logos-world.net/wp-content/uploads/2020/11/Giorgio-Armani-Logo-700x394.png',
     bgColor: '#ffffff'
   }
 ];
 
 export default function BrandSlider() {
   // Duplicate the brands array to create seamless infinite scroll
+  // Animation speed and width are always consistent across all devices
   const duplicatedBrands = [...mensBrands, ...mensBrands];
 
   return (
@@ -97,11 +98,11 @@ export default function BrandSlider() {
               x: {
                 repeat: Infinity,
                 repeatType: "loop",
-                duration: 40,
+                duration: 40, // Consistent speed for all viewports
                 ease: "linear",
               },
             }}
-            style={{ width: `${200}%` }}
+            style={{ width: '200%' }} // Consistent width for all viewports
           >
             {duplicatedBrands.map((brand, index) => (
               <motion.div

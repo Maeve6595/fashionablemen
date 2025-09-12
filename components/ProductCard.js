@@ -17,9 +17,6 @@ export default function ProductCard({ product, priority = false }) {
   const images = product.images || (product.image ? [product.image] : ['https://via.placeholder.com/600x600.png?text=No+Image']);
   const currentImage = images[currentImageIndex] || images[0];
 
-  // Generate consistent review count based on product ID
-  const reviewCount = product.reviewCount || (100 + (product.id * 47) % 2000);
-
   const openAffiliate = () => {
     if (!product?.affiliateUrl) return;
     const urlWithUTM = addUTMParameters(product.affiliateUrl);
@@ -238,6 +235,20 @@ export default function ProductCard({ product, priority = false }) {
             {Math.round(((product.originalPrice - product.price) / product.originalPrice) * 100)}% OFF
           </motion.div>
         )}
+
+        {/* Product Badges - styled like discount badge, position depends on discount badge presence */}
+        {Array.isArray(product.badges) && product.badges.length > 0 && (
+          <div
+            className="absolute left-2 sm:left-3 z-20 flex flex-col gap-1"
+            style={{ top: product.originalPrice ? '2.5rem' : '0.5rem' }}
+          >
+            {product.badges.map((badge, idx) => (
+              <span key={idx} className="px-2 py-1 bg-gradient-to-r from-blue-600 to-purple-600 text-white text-xs sm:text-sm font-bold rounded-full shadow-lg">
+                {badge}
+              </span>
+            ))}
+          </div>
+        )}
       </div>
 
       {/* Content - Enhanced mobile typography */}
@@ -287,7 +298,7 @@ export default function ProductCard({ product, priority = false }) {
             ))}
           </div>
           <span className="text-xs sm:text-sm font-medium text-gray-600">
-            {product.rating} ({reviewCount}+)
+            {product.rating}
           </span>
         </motion.div>
 
@@ -298,21 +309,17 @@ export default function ProductCard({ product, priority = false }) {
           transition={{ duration: 0.4, delay: 0.5 }}
           className="mt-auto"
         >
-          <div className="flex items-baseline gap-1.5 sm:gap-2">
+          <div className="flex flex-col items-start gap-1.5 sm:flex-row sm:items-baseline sm:gap-2">
             <span className="text-lg sm:text-xl md:text-2xl font-bold bg-gradient-to-r from-green-600 to-emerald-600 bg-clip-text text-transparent">
               {formatPrice(product.price)}
             </span>
             {product.originalPrice && (
-              <span className="text-xs sm:text-sm text-gray-500 line-through">
+              <span className="text-xs sm:text-sm text-gray-500 line-through sm:ml-2">
                 {formatPrice(product.originalPrice)}
               </span>
             )}
           </div>
-          {product.originalPrice && (
-            <p className="text-xs sm:text-sm text-green-600 font-medium mt-1">
-              You save {formatPrice(product.originalPrice - product.price)}
-            </p>
-          )}
+          {/* Removed 'You save...' text */}
         </motion.div>
       </motion.div>
 
