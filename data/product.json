@@ -16,9 +16,14 @@
     "originalPrice": 1999,
     "rating": 4.7,
     "reviewCount": 56,
-    "description": "Traditional cotton kurta with comfortable fit for festive and casual wear.",
-    "tags": ["traditional", "cotton", "festive"],
-    "badges": ["Best Seller"],
+    "tags": [
+      "traditional",
+      "cotton",
+      "festive"
+    ],
+    "badges": [
+      "Best Seller"
+    ],
     "material": "100% Cotton",
     "fit": "Regular",
     "affiliateUrl": "https://amzn.to/3UTeEev"
@@ -34,15 +39,14 @@
       "https://m.media-amazon.com/images/I/71kpWzClI8L._SX679_.jpg",
       "https://m.media-amazon.com/images/I/619fJE1MF7L._SX679_.jpg",
       "https://m.media-amazon.com/images/I/71Bg8crEyQL._SX679_.jpg"
-
-
     ],
     "price": 2500,
     "originalPrice": 4700,
     "rating": 4.7,
     "reviewCount": 80,
-    "description": "Moisture-wicking Dri-FIT technology keeps you dry and comfortable.",
-    "badges": ["Trending"],
+    "badges": [
+      "Trending"
+    ],
     "affiliateUrl": "https://amzn.to/4g2ksvX"
   },
   {
@@ -61,7 +65,11 @@
     "originalPrice": 3199,
     "rating": 4.5,
     "reviewCount": 45,
-    "tags": ["chelsea", "boots", "premium"],
+    "tags": [
+      "chelsea",
+      "boots",
+      "premium"
+    ],
     "material": "Vegan leather",
     "fit": "",
     "affiliateUrl": "https://amzn.to/45IKaSz"
@@ -79,282 +87,357 @@
     ],
     "price": 349,
     "originalPrice": 1999,
-    "description": "Stylish and trending half-sleeve casual shirt with a soft finish and modern fit, perfect for smart casual looks in every season.",
     "affiliateUrl": "https://amzn.to/4g9mxpC"
   },
   {
     "id": 5,
-    "slug": "van-heusen-formal-shirt-white",
-    "title": "Van Heusen Formal Shirt White",
-    "brand": "Van Heusen",
-    "category": "topwear",
-    "subCategory": "formal-shirts",
+    "slug": "bumblebee-sneakers",
+    "title": "Bumblebee Sneakers",
+    "brand": "Souled Store",
+    "category": "footwear",
+    "subCategory": "sneakers",
     "images": [
-      "https://m.media-amazon.com/images/I/71trBmPn6NL._SX466_.jpg",
-      "https://m.media-amazon.com/images/I/81hPqzU0P3L._SX466_.jpg"
+      "https://m.media-amazon.com/images/I/61JKFJA+DIL._SY695_.jpg",
+      "https://m.media-amazon.com/images/I/61dXR+taYXL._SY695_.jpg",
+      "https://m.media-amazon.com/images/I/71-ryHk1M3L._SY695_.jpg",
+      "https://m.media-amazon.com/images/I/71nZ5uIOpOL._SY695_.jpg",
+      "https://m.media-amazon.com/images/I/712GE+A7iXL._SY695_.jpg",
+      "https://m.media-amazon.com/images/I/71x5JYkWLtL._SY695_.jpg"
     ],
-    "price": 1799,
-    "originalPrice": 2299,
+    "price": 2499,
+    "originalPrice": 6000,
     "rating": 4.2,
     "reviewCount": 678,
-    "description": "Professional formal shirt with easy-iron fabric for office wear.",
-    "tags": ["formal", "office", "professional"],
-    "badges": ["New"],
-    "material": "Cotton Blend",
-    "affiliateUrl": "https://amzn.to/4ngjH4v"
+    "tags": [
+      "formal",
+      "office",
+      "professional"
+    ],
+    "badges": [
+      "Trending",
+      "New"
+    ],
+    "material": "Polyurethane",
+    "affiliateUrl": "https://amzn.to/4guC43I"
   },
   {
     "id": 6,
-    "slug": "manyavar-silk-sherwani-gold",
-    "title": "Manyavar Silk Sherwani Gold",
-    "brand": "Manyavar",
-    "category": "topwear",
-    "subCategory": "sherwanis",
+    "slug": "calcetto-mens-clt-1032-lifestyle-shoes",
+    "title": "Calcetto Men's CLT-1032 Lifestyle Shoes",
+    "brand": "Calcetto",
+    "category": "footwear",
+    "subCategory": "lifestyle-shoes",
     "images": [
-      "https://images.meesho.com/images/products/5374973/izobe_512.avif?width=512"
+      "https://m.media-amazon.com/images/I/81rbSw54p5L._SY625_.jpg",
+      "https://m.media-amazon.com/images/I/71gJ5klQHSL._SY695_.jpg",
+      "https://m.media-amazon.com/images/I/81Or4jOV0+L._SY625_.jpg",
+      "https://m.media-amazon.com/images/I/91tz-U5zkIL._SY625_.jpg"
     ],
-    "price": 8999,
-    "originalPrice": 12999,
+    "price": 3500,
+    
     "rating": 4.7,
-    "reviewCount": 123,
-    "description": "Elegant silk sherwani with intricate embroidery for wedding occasions.",
-    "tags": ["wedding", "silk", "traditional"],
-    "badges": ["Premium"],
-    "material": "Pure Silk",
-    "affiliateUrl": "https://www.flipkart.com/manyavar-silk-sherwani/p/itm8b9c5d3e7f2a1"
+    "badges": [
+    
+    ],
+    "material": "Mesh",
+    "affiliateUrl": "https://amzn.to/4nBZS8f"
   },
   {
     "id": 7,
-    "slug": "nehru-jacket-black-cotton",
-    "title": "Cotton Nehru Jacket Black",
-    "brand": "Raymond",
-    "category": "topwear",
-    "subCategory": "nehru-jackets",
+    "slug": "The Souled Store Official Top Gun: Maverick Kicks Men and Boys Lace Up High Top",
+    "title": "top maverick shoes ",
+    "brand": "Souled Store",
+    "category": "footwear",
+    "subCategory": "sneakers",
     "images": [
-      "https://assets-jiocdn.ajio.com/medias/sys_master/root/20250123/8RyS/679207750431850e0dba8422/-473Wx593H-420499586-multicolor1-MODEL.jpg"
+      "https://m.media-amazon.com/images/I/61n0CPuTmSL._SY695_.jpg",
+      "https://m.media-amazon.com/images/I/61VT5WMT-dL._SY695_.jpg",
+       "https://m.media-amazon.com/images/I/61K-cHeX7fL._SY695_.jpg"
     ],
-    "price": 2799,
+    "price": 3000,
+    "originalPrice": 5000,
     "rating": 4.1,
     "reviewCount": 89,
-    "tags": ["ethnic", "cotton", "formal"],
-    "affiliateUrl": "https://www.myntra.com/nehru-jackets/raymond/raymond-men-black-nehru-jacket/13456789/buy"
+    "tags": [
+      "ethnic",
+      "cotton",
+      "formal"
+    ],
+    "affiliateUrl": "https://amzn.to/4gqVFBS"
   },
   {
     "id": 8,
-    "slug": "zara-blazer-navy-blue",
-    "title": "Zara Slim Fit Blazer Navy",
-    "brand": "Zara",
-    "category": "topwear",
-    "subCategory": "blazers-coats",
+    "slug": "atom-alpha-predator-sneakers-shoes-for-men",
+    "title": "Atom Alpha Predator Sneakers",
+    "brand": "Atom",
+    "category": "footwear",
+    "subCategory": "sneakers",
     "images": [
-      "https://g.sdlcdn.com/imgs/k/x/7/Rajnandini-Cotton-Blend-Printed-Kurti-SDL238796638-1-712af.jpg",
-      "https://g.sdlcdn.com/imgs/k/x/7/Rajnandini-Cotton-Blend-Printed-Kurti-SDL238796638-2-5ac2b.jpg"
+      "https://m.media-amazon.com/images/I/61QMTVs0k2L._SY625_.jpg",
+      "https://m.media-amazon.com/images/I/61y8jlCybLL._SY625_.jpg.",
+      "https://m.media-amazon.com/images/I/51hCRZplpbL._SY625_.jpg"
     ],
-    "price": 4999,
-    "originalPrice": 6499,
+    "price": 1699,
+    "originalPrice": 3500,
     "rating": 4.5,
     "reviewCount": 345,
-    "description": "Modern slim-fit blazer perfect for business and formal occasions.",
-    "badges": ["Trending"],
-    "fit": "Slim",
-    "affiliateUrl": "https://www.nykaa.com/zara-slim-fit-blazer/p/2854673"
+    "badges": [
+      "Trending"
+    ],
+    "fit": "",
+    "affiliateUrl": "https://amzn.to/47GiHCo"
   },
   {
     "id": 9,
-    "slug": "peter-england-suit-charcoal",
-    "title": "Peter England Suit Charcoal",
-    "brand": "Peter England",
-    "category": "topwear",
-    "subCategory": "suits",
+    "slug": "Bacca Bucci Men Lace Up Basketball Shoe",
+    "title": "Bacca Bucci Men Lace Up Basketball Shoe",
+    "brand": " Bucci",
+    "category": "footwear",
+    "subCategory": "sneakers",
     "images": [
-      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=600&h=600&fit=crop"
+      "https://m.media-amazon.com/images/I/71V4GGv1edL._SY625_.jpg",
+      "https://m.media-amazon.com/images/I/812shEnuYgL._SY625_.jpg",
+      "https://m.media-amazon.com/images/I/713ttlqcMcL._SY625_.jpg"
     ],
-    "price": 7999,
-    "originalPrice": 10999,
-    "description": "Complete 2-piece suit with jacket and trousers for formal events.",
-    "tags": ["formal", "suit", "business"],
-    "affiliateUrl": "https://www.amazon.in/dp/B085NM7T3K"
+    "price": 1699,
+    "originalPrice": 3500,
+    "tags": [
+      "formal",
+      "suit",
+      "business"
+    ],
+    "affiliateUrl": "https://amzn.to/47KPW7z"
   },
   {
     "id": 10,
-    "slug": "wildcraft-rain-jacket-green",
-    "title": "Wildcraft Rain Jacket Green",
-    "brand": "Wildcraft",
-    "category": "topwear",
-    "subCategory": "rain-jackets",
+    "slug": "Kraasa Orion-X Men's Vegan Leather Chelsea Boots ",
+    "title": "Kraasa Orion-X Men's Vegan Leather Chelsea Boots ",
+    "brand": "Kraasa",
+    "category": "footwear",
+    "subCategory": "boots",
     "images": [
-      "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=600&h=600&fit=crop"
+      "https://m.media-amazon.com/images/I/61V4KA5A3qL._SX625_.jpg",
+      "https://m.media-amazon.com/images/I/61RK1rqz-8L._SX625_.jpg",
+      "https://m.media-amazon.com/images/I/61ph0lsZceL._SX625_.jpg",
+      "https://m.media-amazon.com/images/I/61KITJcNOGL._SX625_.jpg"
     ],
-    "price": 2999,
+    "price": 999,
     "rating": 4.3,
     "reviewCount": 167,
-    "description": "Waterproof rain jacket with breathable fabric for outdoor adventures.",
-    "tags": ["waterproof", "outdoor", "adventure"],
-    "badges": ["New"],
-    "affiliateUrl": "https://www.decathlon.in/p/8561234-wildcraft-rain-jacket"
+    "tags": [
+      "waterproof",
+      "outdoor",
+      "adventure"
+    ],
+    "badges": [
+      "New",
+      "Mens choice"
+    ],
+    "affiliateUrl": "https://amzn.to/3I2PQOl"
   },
   {
     "id": 11,
-    "slug": "adidas-sweatshirt-grey",
-    "title": "Adidas Essential Sweatshirt",
-    "brand": "Adidas",
-    "category": "topwear",
-    "subCategory": "sweatshirts",
+    "slug": "Centrino Men's Slip-On Formal Shoe 9705",
+    "title": "Centrino Men's Slip-On Formal Shoe 9705",
+    "brand": "Centrino",
+    "category": "footwear",
+    "subCategory": "formal-shoes",
     "images": [
-      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=600&h=600&fit=crop&brightness=-10"
+      "https://m.media-amazon.com/images/I/61T+50wuWoL._SY625_.jpg",
+      "https://m.media-amazon.com/images/I/81ZFshHJDVL._SY625_.jpg",
+      "https://m.media-amazon.com/images/I/71nE2hq62fL._SY625_.jpg"
     ],
-    "price": 2299,
-    "originalPrice": 2999,
+    "price": 760,
+    "originalPrice": 1000,
     "rating": 4.4,
     "reviewCount": 523,
-    "description": "Comfortable cotton blend sweatshirt with iconic 3-stripes design.",
-    "badges": ["Best Seller"],
-    "material": "Cotton Blend",
-    "affiliateUrl": "https://www.flipkart.com/adidas-essential-sweatshirt/p/itm9f3d7e2a8c5b1"
+    "badges": [
+      "Best Seller"
+    ],
+    "material": "",
+    "affiliateUrl": "https://amzn.to/3VRBV0E"
   },
   {
     "id": 12,
-    "slug": "wool-sweater-brown-zara",
-    "title": "Zara Wool Sweater Brown",
-    "brand": "Zara",
-    "category": "topwear",
-    "subCategory": "sweaters",
+    "slug": "FAUSTO-Mens-High-Ankle-Zipper-Closure-Chelsea-Boots",
+    "title": "FAUSTO Mens High Ankle Zipper Closure Chelsea Boots",
+    "brand": "FAUSTO",
+    "category": "footwear",
+    "subCategory": "boots",
     "images": [
-      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=600&h=600&fit=crop"
+      "https://m.media-amazon.com/images/I/61j0a2Wn3-L._SY625_.jpg"
     ],
-    "price": 3499,
+    "price": 1500,
     "rating": 4.2,
     "reviewCount": 234,
-    "tags": ["wool", "winter", "warm"],
-    "material": "100% Wool",
-    "affiliateUrl": "https://www.myntra.com/sweaters/zara/zara-men-brown-wool-sweater/16789045/buy"
+    "tags": [
+      "wool",
+      "winter",
+      "warm"
+    ],
+    "material": "",
+    "affiliateUrl": "https://amzn.to/4n4QsSC"
   },
   {
     "id": 13,
-    "slug": "leather-jacket-black-biker",
-    "title": "Genuine Leather Biker Jacket",
-    "brand": "Flying Machine",
-    "category": "topwear",
-    "subCategory": "jackets",
+    "slug": "FAUSTO Men's Leather Boots",
+    "title": "FAUSTO Men's Leather Boots",
+    "brand": "FAUSTO",
+    "category": "footwear",
+    "subCategory": "boots",
     "images": [
-      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=600&h=600&fit=crop"
+      "https://m.media-amazon.com/images/I/51LgTcSrMYL._SY625_.jpg",
+      "https://m.media-amazon.com/images/I/51EKtFevUlL._SY625_.jpg",
+      "https://m.media-amazon.com/images/I/51qazxuq1oL._SY625_.jpg"
     ],
-    "price": 8999,
-    "originalPrice": 12999,
+    "price": 2699,
+    "originalPrice": 6999,
     "rating": 4.6,
     "reviewCount": 89,
-    "description": "Premium genuine leather jacket with biker styling and multiple pockets.",
-    "tags": ["leather", "biker", "premium"],
-    "badges": ["Premium"],
-    "affiliateUrl": "https://www.ajio.com/flying-machine-leather-jacket/p/461890123_black"
+    "tags": [
+      "leather",
+      "biker",
+      "premium"
+    ],
+    "badges": [
+      "Premium"
+    ],
+    "affiliateUrl": "https://amzn.to/42zc3ua"
   },
   {
     "id": 14,
-    "slug": "waistcoat-grey-formal",
-    "title": "Formal Grey Waistcoat",
-    "brand": "Blackberrys",
-    "category": "topwear",
-    "subCategory": "waistcoats",
+    "slug": "AFROJACK Men's Everest Trekking,Hiking,Biking Boots ",
+    "title": "AFROJACK Men's Everest Trekking,Hiking,Biking Boots ",
+    "brand": "AFROJACK",
+    "category": "footwear",
+    "subCategory": "boots",
     "images": [
-      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=600&h=600&fit=crop&hue=20"
+      "https://m.media-amazon.com/images/I/718ket+zWgL._SX625_.jpg",
+      "https://m.media-amazon.com/images/I/81ZRcifbjFL._SY695_.jpg",
+      "https://m.media-amazon.com/images/I/717q7lqLujL._SX625_.jpg"
     ],
-    "price": 1999,
-    "description": "Classic formal waistcoat to complete your three-piece suit ensemble.",
-    "affiliateUrl": "https://www.amazon.in/dp/B08X4M9N7P"
+    "price": 1599,
+    "originalPrice": 7999,
+    "affiliateUrl": "https://amzn.to/3VS4FGy"
   },
   {
     "id": 15,
-    "slug": "levi-511-slim-jeans-blue",
-    "title": "Levi's 511 Slim Fit Jeans",
-    "brand": "Levi's",
-    "category": "bottomwear",
-    "subCategory": "jeans",
+    "slug": "AFROJACK Men's High Ankle Chelsea Boots",
+    "title": "AFROJACK Men's High Ankle Chelsea Boots",
+    "brand": "AFROJACK",
+    "category": "footwear",
+    "subCategory": "boots",
     "images": [
-      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=600&h=600&fit=crop&brightness=10"
+      "https://m.media-amazon.com/images/I/61f9tCCTfZL._SX625_.jpg",
+      "https://m.media-amazon.com/images/I/71TgGsBH0oL._SY695_.jpg",
+      "https://m.media-amazon.com/images/I/61iDnQpHGAL._SX625_.jpg"
+
     ],
-    "price": 2799,
-    "originalPrice": 3499,
+    "price": 1399,
+    "originalPrice": 5999,
     "rating": 4.5,
     "reviewCount": 1234,
-    "description": "Classic slim-fit jeans with authentic denim wash and modern styling.",
-    "tags": ["denim", "slim", "casual"],
-    "badges": ["Best Seller"],
+    "tags": [
+      "denim",
+      "slim",
+      "casual"
+    ],
+    "badges": [
+      "Best Seller"
+    ],
     "fit": "Slim",
-    "affiliateUrl": "https://www.flipkart.com/levis-511-slim-jeans/p/itmf2e8d6a9b1c3e"
+    "affiliateUrl": "https://amzn.to/3KnX0gB"
   },
   {
     "id": 16,
-    "slug": "arrow-casual-trousers-khaki",
-    "title": "Arrow Casual Trousers Khaki",
-    "brand": "Arrow",
-    "category": "bottomwear",
-    "subCategory": "casual-trousers",
+    "slug": "Kraasa Men's Chelsea Boots High Tops Boots",
+    "title": "Kraasa Men's Chelsea Boots High Tops Boots",
+    "brand": "Kraasa",
+    "category": "footwear",
+    "subCategory": "boots",
     "images": [
-      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=600&h=600&fit=crop"
+      "https://m.media-amazon.com/images/I/51350a7erZL._SX625_.jpg",
+      "https://m.media-amazon.com/images/I/712If0fX6JL._SY695_.jpg",
+      "https://m.media-amazon.com/images/I/714lzpaHgHL._SY695_.jpg"
     ],
-    "price": 1899,
+    "price": 999,
     "rating": 4.2,
     "reviewCount": 456,
-    "description": "Comfortable casual trousers perfect for weekend and smart-casual wear.",
-    "tags": ["casual", "comfortable", "weekend"],
-    "affiliateUrl": "https://www.myntra.com/casual-trousers/arrow/arrow-men-khaki-casual-trousers/12345678/buy"
+    "tags": [
+      "casual",
+      "comfortable",
+      "weekend"
+    ],
+    "affiliateUrl": "https://amzn.to/4n3sE1o"
   },
   {
     "id": 17,
-    "slug": "formal-trousers-black-van-heusen",
-    "title": "Van Heusen Formal Trousers",
-    "brand": "Van Heusen",
-    "category": "bottomwear",
-    "subCategory": "formal-trousers",
+    "slug": "OZJI Men's Basketball Casual Boots",
+    "title": "OZJI Men's Basketball Casual Boots",
+    "brand": "OZJI",
+    "category": "footwear",
+    "subCategory": "boots",
     "images": [
-      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=600&h=600&fit=crop"
+      "https://m.media-amazon.com/images/I/614+cjRAPwL._SY625_.jpg",
+      "https://m.media-amazon.com/images/I/61nIy-G4otL._SY625_.jpg",
+      "https://m.media-amazon.com/images/I/61gikSHgZYL._SY625_.jpg"
     ],
-    "price": 1599,
-    "originalPrice": 2199,
+    "price": 599,
+    "originalPrice": 1999,
     "rating": 4.3,
     "reviewCount": 678,
-    "description": "Wrinkle-free formal trousers with perfect fit for office wear.",
-    "badges": ["New"],
-    "material": "Poly Viscose",
-    "affiliateUrl": "https://www.amazon.in/dp/B087P5Q8NX"
+    "badges": [
+      "New"
+    ],
+    "material": "",
+    "affiliateUrl": "https://amzn.to/46lsmfh"
   },
   {
     "id": 18,
-    "slug": "nike-dri-fit-shorts-black",
-    "title": "Nike Dri-FIT Training Shorts",
-    "brand": "Nike",
-    "category": "bottomwear",
-    "subCategory": "shorts",
+    "slug": "Zixer Men's Italian Light Weight Platform Fashion Synthetic Leather Sneakers for Men",
+    "title": "Zixer Men's Italian Light Weight Platform Fashion Synthetic Leather Sneakers for Men",
+    "brand": "Zixer",
+    "category": "footwear",
+    "subCategory": "sneakers",
     "images": [
-      "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=600&h=600&fit=crop"
+      "https://m.media-amazon.com/images/I/51814PzBlRL._SY625_.jpg",
+      "https://m.media-amazon.com/images/I/61QmoqFSDBL._SY625_.jpg",
+      "https://m.media-amazon.com/images/I/51nyuqAvD5L._SX625_.jpg"
     ],
-    "price": 1299,
+    "price": 1443,
     "rating": 4.4,
     "reviewCount": 345,
-    "description": "Lightweight shorts with Dri-FIT technology for workout sessions.",
-    "tags": ["sports", "workout", "moisture-wicking"],
-    "badges": ["Trending"],
-    "affiliateUrl": "https://www.nike.com/in/t/dri-fit-training-shorts-mens-7-inch-unlined-running-shorts-ABCD123"
+    "tags": [
+      "sports",
+      "workout",
+      "moisture-wicking"
+    ],
+    "badges": [
+      "Trending"
+    ],
+    "affiliateUrl": "https://amzn.to/47KUw5L"
   },
   {
     "id": 19,
-    "slug": "adidas-track-pants-navy",
-    "title": "Adidas Essentials Track Pants",
-    "brand": "Adidas",
-    "category": "bottomwear",
-    "subCategory": "track-pants",
+    "slug": "The Souled Store Mens Ubz Fumes: Storm Sneaker",
+    "title": "The Souled Store Mens Ubz Fumes: Storm Sneaker",
+    "brand": "Souled Store",
+    "category": "footwear",
+    "subCategory": "sneakers",
     "images": [
-      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?w=600&h=600&fit=crop"
+      "https://m.media-amazon.com/images/I/51j+00W29OL._SY695_.jpg",
+      "https://m.media-amazon.com/images/I/51MLSG+cNAL._SY695_.jpg",
+      "https://m.media-amazon.com/images/I/61fXdAhV7fL._SY695_.jpg",
+      "https://m.media-amazon.com/images/I/61p9wo7S7XL._SY695_.jpg"
     ],
-    "price": 1799,
-    "originalPrice": 2299,
+    "price": 2800,
+    "originalPrice": 4299,
     "rating": 4.3,
     "reviewCount": 567,
-    "description": "Comfortable track pants with 3-stripes design for casual wear.",
-    "badges": ["Best Seller"],
-    "affiliateUrl": "https://www.ajio.com/adidas-essentials-track-pants/p/461567890_navy"
+    "badges": [
+      "Best Seller"
+    ],
+    "affiliateUrl": "https://amzn.to/4gmW6go"
   },
   {
     "id": 20,
@@ -367,8 +450,11 @@
       "https://images.unsplash.com/photo-1624378515195-6bbdb73dff1a?w=600&h=600&fit=crop"
     ],
     "price": 2199,
-    "description": "Utility cargo pants with multiple pockets for outdoor adventures.",
-    "tags": ["cargo", "utility", "outdoor"],
+    "tags": [
+      "cargo",
+      "utility",
+      "outdoor"
+    ],
     "affiliateUrl": "https://www.myntra.com/cargo-pants/flying-machine/flying-machine-men-olive-cargo-pants/14567890/buy"
   },
   {
@@ -384,7 +470,6 @@
     "price": 899,
     "rating": 4.1,
     "reviewCount": 234,
-    "description": "Soft cotton pyjamas for comfortable sleep and lounging.",
     "material": "100% Cotton",
     "affiliateUrl": "https://www.amazon.in/dp/B08H7K9L2M"
   },
@@ -399,10 +484,13 @@
       "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=600&fit=crop&hue=40"
     ],
     "price": 1499,
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 123,
-    "description": "Traditional dhoti pants with modern comfort for ethnic wear.",
-    "tags": ["traditional", "ethnic", "comfortable"],
+    "tags": [
+      "traditional",
+      "ethnic",
+      "comfortable"
+    ],
     "affiliateUrl": "https://www.fabindia.com/dhoti-pants-cream/p/FBD567890"
   },
   {
@@ -416,7 +504,6 @@
       "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=600&fit=crop&sat=-80"
     ],
     "price": 799,
-    "description": "Authentic Kerala mundu with golden border for traditional occasions.",
     "affiliateUrl": "https://www.meesho.com/kerala-traditional-mundu/p/567890123"
   },
   {
@@ -432,7 +519,6 @@
     "price": 599,
     "rating": 3.9,
     "reviewCount": 89,
-    "description": "Comfortable cotton lungi with traditional check pattern.",
     "material": "100% Cotton",
     "affiliateUrl": "https://www.flipkart.com/ramraj-cotton-lungi/p/itm8d5c3f7e2a9b1"
   },
@@ -451,9 +537,14 @@
     "originalPrice": 9999,
     "rating": 4.6,
     "reviewCount": 2341,
-    "description": "Iconic Air Max sneakers with visible air cushioning for ultimate comfort.",
-    "tags": ["sneakers", "sports", "comfort"],
-    "badges": ["Best Seller"],
+    "tags": [
+      "sneakers",
+      "sports",
+      "comfort"
+    ],
+    "badges": [
+      "Best Seller"
+    ],
     "affiliateUrl": "https://www.amazon.in/dp/B08R7N9T4K"
   },
   {
@@ -470,8 +561,11 @@
     "originalPrice": 7999,
     "rating": 4.4,
     "reviewCount": 456,
-    "description": "Premium leather formal shoes with cushioned sole for office wear.",
-    "tags": ["formal", "leather", "office"],
+    "tags": [
+      "formal",
+      "leather",
+      "office"
+    ],
     "material": "Genuine Leather",
     "affiliateUrl": "https://www.myntra.com/formal-shoes/clarks/clarks-men-brown-formal-leather-shoes/18901234/buy"
   },
@@ -488,8 +582,9 @@
     "price": 3999,
     "rating": 4.2,
     "reviewCount": 678,
-    "description": "Rugged casual shoes perfect for outdoor activities and daily wear.",
-    "badges": ["Trending"],
+    "badges": [
+      "Trending"
+    ],
     "affiliateUrl": "https://www.flipkart.com/woodland-casual-shoes/p/itmc4e8f6a9b2d3e"
   },
   {
@@ -506,9 +601,14 @@
     "originalPrice": 6499,
     "rating": 4.5,
     "reviewCount": 890,
-    "description": "Lightweight sports shoes with boost technology for enhanced performance.",
-    "tags": ["running", "sports", "boost"],
-    "badges": ["New"],
+    "tags": [
+      "running",
+      "sports",
+      "boost"
+    ],
+    "badges": [
+      "New"
+    ],
     "affiliateUrl": "https://www.adidas.co.in/ultraboost-21-shoes/FY0378.html"
   },
   {
@@ -524,8 +624,11 @@
     "price": 3999,
     "rating": 4.3,
     "reviewCount": 567,
-    "description": "Versatile running shoes with responsive foam for everyday runs.",
-    "tags": ["running", "foam", "comfortable"],
+    "tags": [
+      "running",
+      "foam",
+      "comfortable"
+    ],
     "affiliateUrl": "https://www.ajio.com/nike-revolution-running-shoes/p/461234567_blue"
   },
   {
@@ -540,9 +643,8 @@
     ],
     "price": 1299,
     "originalPrice": 1699,
-    "rating": 4.0,
+    "rating": 4,
     "reviewCount": 234,
-    "description": "Comfortable leather sandals perfect for casual summer wear.",
     "material": "Genuine Leather",
     "affiliateUrl": "https://www.bata.in/men-sandals-brown/p/BST789012"
   },
@@ -559,8 +661,11 @@
     "price": 899,
     "rating": 4.1,
     "reviewCount": 345,
-    "description": "Iconic Brazilian flip flops with comfortable rubber sole.",
-    "tags": ["beach", "summer", "comfortable"],
+    "tags": [
+      "beach",
+      "summer",
+      "comfortable"
+    ],
     "affiliateUrl": "https://www.amazon.in/dp/B07M6T5R8N"
   },
   {
@@ -577,8 +682,9 @@
     "originalPrice": 6499,
     "rating": 4.4,
     "reviewCount": 123,
-    "description": "Classic leather loafers for smart-casual and formal occasions.",
-    "badges": ["Premium"],
+    "badges": [
+      "Premium"
+    ],
     "affiliateUrl": "https://www.myntra.com/loafers/clarks/clarks-men-black-leather-loafers/19567890/buy"
   },
   {
@@ -595,9 +701,14 @@
     "originalPrice": 11999,
     "rating": 4.6,
     "reviewCount": 234,
-    "description": "Durable waterproof boots perfect for outdoor adventures and winter wear.",
-    "tags": ["waterproof", "outdoor", "durable"],
-    "badges": ["Premium"],
+    "tags": [
+      "waterproof",
+      "outdoor",
+      "durable"
+    ],
+    "badges": [
+      "Premium"
+    ],
     "affiliateUrl": "https://www.flipkart.com/timberland-classic-boots/p/itm6f8e3a9c1d2b7"
   },
   {
@@ -613,8 +724,11 @@
     "price": 1799,
     "rating": 4.2,
     "reviewCount": 89,
-    "description": "Handcrafted traditional mojari with intricate embroidery for ethnic wear.",
-    "tags": ["traditional", "handcrafted", "ethnic"],
+    "tags": [
+      "traditional",
+      "handcrafted",
+      "ethnic"
+    ],
     "affiliateUrl": "https://www.meesho.com/traditional-mojari-gold/p/890123456"
   },
   {
@@ -631,9 +745,14 @@
     "originalPrice": 3199,
     "rating": 4.5,
     "reviewCount": 456,
-    "description": "Premium leather wallet with multiple card slots and RFID protection.",
-    "tags": ["leather", "premium", "rfid"],
-    "badges": ["Best Seller"],
+    "tags": [
+      "leather",
+      "premium",
+      "rfid"
+    ],
+    "badges": [
+      "Best Seller"
+    ],
     "affiliateUrl": "https://www.amazon.in/dp/B08N5X7Y2M"
   },
   {
@@ -649,8 +768,11 @@
     "price": 999,
     "rating": 4.2,
     "reviewCount": 234,
-    "description": "Stylish leather belt with reversible design for versatile styling.",
-    "tags": ["leather", "reversible", "stylish"],
+    "tags": [
+      "leather",
+      "reversible",
+      "stylish"
+    ],
     "affiliateUrl": "https://www.myntra.com/belts/fastrack/fastrack-men-black-leather-belt/20123456/buy"
   },
   {
@@ -667,9 +789,14 @@
     "originalPrice": 4999,
     "rating": 4.4,
     "reviewCount": 678,
-    "description": "Fresh aquatic fragrance with long-lasting scent for modern men.",
-    "tags": ["fragrance", "aquatic", "long-lasting"],
-    "badges": ["Trending"],
+    "tags": [
+      "fragrance",
+      "aquatic",
+      "long-lasting"
+    ],
+    "badges": [
+      "Trending"
+    ],
     "affiliateUrl": "https://www.nykaa.com/davidoff-cool-water-perfume/p/2567890"
   },
   {
@@ -685,8 +812,11 @@
     "price": 399,
     "rating": 4.1,
     "reviewCount": 890,
-    "description": "24-hour protection deodorant with irresistible chocolate fragrance.",
-    "tags": ["24-hour", "chocolate", "protection"],
+    "tags": [
+      "24-hour",
+      "chocolate",
+      "protection"
+    ],
     "affiliateUrl": "https://www.amazon.in/dp/B00J8K7N4S"
   },
   {
@@ -703,422 +833,14 @@
     "originalPrice": 2499,
     "rating": 4.3,
     "reviewCount": 567,
-    "description": "Cordless trimmer with titanium blades for precise grooming.",
-    "tags": ["cordless", "titanium", "grooming"],
-    "badges": ["New"],
+    "tags": [
+      "cordless",
+      "titanium",
+      "grooming"
+    ],
+    "badges": [
+      "New"
+    ],
     "affiliateUrl": "https://www.flipkart.com/philips-series-3000-trimmer/p/itm7b9c5d8e3f2a1"
-  },
-  {
-    "id": 40,
-    "slug": "park-avenue-tie-blue",
-    "title": "Park Avenue Silk Tie Blue",
-    "brand": "Park Avenue",
-    "category": "fashion-accessories",
-    "subCategory": "ties-cufflinks",
-    "images": [
-      "https://images.unsplash.com/photo-1617129320976-1e1b4c4f9c86?w=600&h=600&fit=crop"
-    ],
-    "price": 899,
-    "rating": 4.2,
-    "reviewCount": 123,
-    "description": "Premium silk tie with classic pattern for formal occasions.",
-    "material": "100% Silk",
-    "affiliateUrl": "https://www.ajio.com/park-avenue-silk-tie/p/461789012_blue"
-  },
-  {
-    "id": 41,
-    "slug": "adidas-cap-black",
-    "title": "Adidas Baseball Cap Black",
-    "brand": "Adidas",
-    "category": "fashion-accessories",
-    "subCategory": "caps-hats",
-    "images": [
-      "https://images.unsplash.com/photo-1521369909029-2afed882baee?w=600&h=600&fit=crop"
-    ],
-    "price": 799,
-    "rating": 4.0,
-    "reviewCount": 345,
-    "description": "Classic baseball cap with adjustable strap and breathable fabric.",
-    "tags": ["adjustable", "breathable", "classic"],
-    "affiliateUrl": "https://www.myntra.com/caps/adidas/adidas-unisex-black-baseball-cap/21234567/buy"
-  },
-  {
-    "id": 42,
-    "slug": "zara-muffler-grey",
-    "title": "Zara Wool Muffler Grey",
-    "brand": "Zara",
-    "category": "fashion-accessories",
-    "subCategory": "mufflers",
-    "images": [
-      "https://images.unsplash.com/photo-1520903074185-9592dc415b80?w=600&h=600&fit=crop"
-    ],
-    "price": 1299,
-    "originalPrice": 1699,
-    "rating": 4.1,
-    "reviewCount": 234,
-    "description": "Soft wool muffler to keep you warm during cold winter days.",
-    "material": "100% Wool",
-    "affiliateUrl": "https://www.nykaa.com/zara-wool-muffler/p/3456789"
-  },
-  {
-    "id": 43,
-    "slug": "spigen-phone-case-iphone",
-    "title": "Spigen iPhone Case Clear",
-    "brand": "Spigen",
-    "category": "fashion-accessories",
-    "subCategory": "phone-cases",
-    "images": [
-      "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=600&h=600&fit=crop"
-    ],
-    "price": 1299,
-    "rating": 4.4,
-    "reviewCount": 567,
-    "description": "Ultra-thin transparent case with drop protection for iPhone.",
-    "tags": ["transparent", "protection", "thin"],
-    "affiliateUrl": "https://www.amazon.in/dp/B08KLMN9OP"
-  },
-  {
-    "id": 44,
-    "slug": "american-tourister-backpack-blue",
-    "title": "American Tourister Backpack",
-    "brand": "American Tourister",
-    "category": "bags-luggage",
-    "subCategory": "backpacks",
-    "images": [
-      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&h=600&fit=crop&hue=240"
-    ],
-    "price": 2999,
-    "originalPrice": 3999,
-    "rating": 4.3,
-    "reviewCount": 678,
-    "description": "Spacious backpack with multiple compartments for travel and daily use.",
-    "tags": ["spacious", "travel", "compartments"],
-    "badges": ["Best Seller"],
-    "affiliateUrl": "https://www.flipkart.com/american-tourister-backpack/p/itm8e4f7a2c9b5d1"
-  },
-  {
-    "id": 45,
-    "slug": "vip-travel-bag-black",
-    "title": "VIP Travel Duffle Bag",
-    "brand": "VIP",
-    "category": "bags-luggage",
-    "subCategory": "travel-bags",
-    "images": [
-      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&h=600&fit=crop&hue=0&sat=0&brightness=-20"
-    ],
-    "price": 1999,
-    "rating": 4.1,
-    "reviewCount": 234,
-    "description": "Durable duffle bag perfect for weekend trips and gym sessions.",
-    "tags": ["durable", "weekend", "gym"],
-    "affiliateUrl": "https://www.myntra.com/travel-bags/vip/vip-unisex-black-duffle-bag/22345678/buy"
-  },
-  {
-    "id": 46,
-    "slug": "nike-gym-bag-red",
-    "title": "Nike Brasilia Gym Bag",
-    "brand": "Nike",
-    "category": "bags-luggage",
-    "subCategory": "gym-bags",
-    "images": [
-      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&h=600&fit=crop&hue=0"
-    ],
-    "price": 1599,
-    "originalPrice": 1999,
-    "rating": 4.4,
-    "reviewCount": 456,
-    "description": "Compact gym bag with separate shoe compartment and water bottle pocket.",
-    "badges": ["Trending"],
-    "affiliateUrl": "https://www.nike.com/in/t/brasilia-training-duffel-bag-medium-9-0-ABCD789"
-  },
-  {
-    "id": 47,
-    "slug": "hp-laptop-bag-black",
-    "title": "HP Laptop Bag 15.6 inch",
-    "brand": "HP",
-    "category": "bags-luggage",
-    "subCategory": "laptop-bags",
-    "images": [
-      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&h=600&fit=crop&sat=0"
-    ],
-    "price": 1299,
-    "rating": 4.2,
-    "reviewCount": 345,
-    "description": "Padded laptop bag with additional pockets for accessories and documents.",
-    "tags": ["padded", "15.6inch", "accessories"],
-    "affiliateUrl": "https://www.amazon.in/dp/B087QRST3M"
-  },
-  {
-    "id": 48,
-    "slug": "wildcraft-messenger-bag-khaki",
-    "title": "Wildcraft Messenger Bag",
-    "brand": "Wildcraft",
-    "category": "bags-luggage",
-    "subCategory": "messenger-bags",
-    "images": [
-      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&h=600&fit=crop&hue=40"
-    ],
-    "price": 1799,
-    "originalPrice": 2299,
-    "rating": 4.0,
-    "reviewCount": 123,
-    "description": "Stylish messenger bag perfect for office and casual outings.",
-    "tags": ["stylish", "office", "casual"],
-    "affiliateUrl": "https://www.ajio.com/wildcraft-messenger-bag/p/461567123_khaki"
-  },
-  {
-    "id": 49,
-    "slug": "jockey-briefs-white",
-    "title": "Jockey Cotton Briefs White",
-    "brand": "Jockey",
-    "category": "innerwear-sleepwear",
-    "subCategory": "briefs-trunks",
-    "images": [
-      "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=600&h=600&fit=crop&sat=0"
-    ],
-    "price": 499,
-    "rating": 4.3,
-    "reviewCount": 890,
-    "description": "Comfortable cotton briefs with soft elastic waistband.",
-    "tags": ["cotton", "comfortable", "elastic"],
-    "material": "100% Cotton",
-    "affiliateUrl": "https://www.amazon.in/dp/B073UVW2XY"
-  },
-  {
-    "id": 50,
-    "slug": "calvin-klein-boxers-black",
-    "title": "Calvin Klein Boxers Black",
-    "brand": "Calvin Klein",
-    "category": "innerwear-sleepwear",
-    "subCategory": "boxers",
-    "images": [
-      "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=600&h=600&fit=crop"
-    ],
-    "price": 1299,
-    "originalPrice": 1699,
-    "rating": 4.5,
-    "reviewCount": 567,
-    "description": "Premium cotton boxers with iconic waistband design.",
-    "tags": ["premium", "cotton", "iconic"],
-    "badges": ["Premium"],
-    "affiliateUrl": "https://www.myntra.com/boxers/calvin-klein/calvin-klein-men-black-boxers/23456789/buy"
-  },
-  {
-    "id": 51,
-    "slug": "jockey-vest-white",
-    "title": "Jockey Cotton Vest White",
-    "brand": "Jockey",
-    "category": "innerwear-sleepwear",
-    "subCategory": "vests",
-    "images": [
-      "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=600&h=600&fit=crop&brightness=20"
-    ],
-    "price": 399,
-    "rating": 4.1,
-    "reviewCount": 234,
-    "description": "Basic cotton vest for layering under shirts and casual wear.",
-    "material": "100% Cotton",
-    "affiliateUrl": "https://www.flipkart.com/jockey-cotton-vest/p/itm3f7e9a2c6b8d1"
-  },
-  {
-    "id": 52,
-    "slug": "peter-england-pyjamas-blue",
-    "title": "Peter England Loungewear Set",
-    "brand": "Peter England",
-    "category": "innerwear-sleepwear",
-    "subCategory": "sleepwear-loungewear",
-    "images": [
-      "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=600&h=600&fit=crop&hue=240"
-    ],
-    "price": 1299,
-    "originalPrice": 1699,
-    "rating": 4.2,
-    "reviewCount": 345,
-    "description": "Comfortable loungewear set perfect for relaxing at home.",
-    "tags": ["loungewear", "comfortable", "relaxing"],
-    "affiliateUrl": "https://www.amazon.in/dp/B089ZAB4CD"
-  },
-  {
-    "id": 53,
-    "slug": "lux-thermals-grey",
-    "title": "Lux Thermal Wear Set Grey",
-    "brand": "Lux",
-    "category": "innerwear-sleepwear",
-    "subCategory": "thermals",
-    "images": [
-      "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=600&h=600&fit=crop&sat=-50"
-    ],
-    "price": 899,
-    "rating": 4.0,
-    "reviewCount": 123,
-    "description": "Warm thermal set to keep you cozy during cold winter months.",
-    "tags": ["thermal", "warm", "winter"],
-    "affiliateUrl": "https://www.myntra.com/thermal-wear/lux/lux-men-grey-thermal-set/24567890/buy"
-  },
-  {
-    "id": 54,
-    "slug": "nike-active-tshirt-dry-fit",
-    "title": "Nike Dri-FIT Active T-Shirt",
-    "brand": "Nike",
-    "category": "sports-activewear",
-    "subCategory": "active-t-shirts",
-    "images": [
-      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600&h=600&fit=crop&hue=120"
-    ],
-    "price": 1799,
-    "originalPrice": 2299,
-    "rating": 4.6,
-    "reviewCount": 789,
-    "description": "High-performance active t-shirt with moisture-wicking technology.",
-    "tags": ["performance", "moisture-wicking", "active"],
-    "badges": ["Best Seller"],
-    "affiliateUrl": "https://www.nike.com/in/t/dri-fit-miler-running-top-EFGH456"
-  },
-  {
-    "id": 55,
-    "slug": "adidas-track-suit-navy",
-    "title": "Adidas Complete Track Suit",
-    "brand": "Adidas",
-    "category": "sports-activewear",
-    "subCategory": "track-suits",
-    "images": [
-      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?w=600&h=600&fit=crop&hue=240"
-    ],
-    "price": 3999,
-    "originalPrice": 4999,
-    "rating": 4.4,
-    "reviewCount": 456,
-    "description": "Complete track suit with jacket and pants for training sessions.",
-    "tags": ["track", "training", "complete"],
-    "badges": ["Trending"],
-    "affiliateUrl": "https://www.adidas.co.in/essentials-3-stripes-track-suit/GK9977.html"
-  },
-  {
-    "id": 56,
-    "slug": "puma-sports-jacket-black",
-    "title": "Puma Sports Training Jacket",
-    "brand": "Puma",
-    "category": "sports-activewear",
-    "subCategory": "sports-jackets",
-    "images": [
-      "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=600&h=600&fit=crop&sat=0"
-    ],
-    "price": 2999,
-    "rating": 4.3,
-    "reviewCount": 234,
-    "description": "Lightweight sports jacket with wind-resistant fabric for outdoor training.",
-    "tags": ["lightweight", "wind-resistant", "outdoor"],
-    "affiliateUrl": "https://www.ajio.com/puma-sports-jacket/p/461890234_black"
-  },
-  {
-    "id": 57,
-    "slug": "adidas-sports-sandals-blue",
-    "title": "Adidas Adilette Sports Sandals",
-    "brand": "Adidas",
-    "category": "sports-activewear",
-    "subCategory": "sports-sandals",
-    "images": [
-      "https://images.unsplash.com/photo-1582588678413-dbf45f4823e9?w=600&h=600&fit=crop&hue=240"
-    ],
-    "price": 1599,
-    "originalPrice": 1999,
-    "rating": 4.2,
-    "reviewCount": 345,
-    "description": "Comfortable sports sandals perfect for post-workout recovery.",
-    "tags": ["comfortable", "recovery", "post-workout"],
-    "affiliateUrl": "https://www.flipkart.com/adidas-adilette-sports-sandals/p/itm4e7f2a9c3b6d8"
-  },
-  {
-    "id": 58,
-    "slug": "speedo-swimwear-blue",
-    "title": "Speedo Swimming Trunks",
-    "brand": "Speedo",
-    "category": "sports-activewear",
-    "subCategory": "swimwear",
-    "images": [
-      "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=600&h=600&fit=crop&hue=240"
-    ],
-    "price": 1299,
-    "rating": 4.1,
-    "reviewCount": 123,
-    "description": "Quick-dry swimming trunks with chlorine-resistant fabric.",
-    "tags": ["quick-dry", "chlorine-resistant", "swimming"],
-    "affiliateUrl": "https://www.amazon.in/dp/B08MNOP5QR"
-  },
-  {
-    "id": 59,
-    "slug": "apple-watch-series-8",
-    "title": "Apple Watch Series 8 GPS",
-    "brand": "Apple",
-    "category": "gadgets",
-    "subCategory": "smart-wearables",
-    "images": [
-      "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=600&h=600&fit=crop"
-    ],
-    "price": 41999,
-    "originalPrice": 45999,
-    "rating": 4.7,
-    "reviewCount": 1234,
-    "description": "Advanced smartwatch with health monitoring and fitness tracking features.",
-    "tags": ["smartwatch", "health", "fitness"],
-    "badges": ["Premium", "New"],
-    "affiliateUrl": "https://www.amazon.in/dp/B0BDHB9Y8L"
-  },
-  {
-    "id": 60,
-    "slug": "mi-fitness-band-6",
-    "title": "Mi Smart Band 6 Fitness Tracker",
-    "brand": "Xiaomi",
-    "category": "gadgets",
-    "subCategory": "fitness-gadgets",
-    "images": [
-      "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=600&h=600&fit=crop&sat=-30"
-    ],
-    "price": 3499,
-    "originalPrice": 4499,
-    "rating": 4.4,
-    "reviewCount": 2890,
-    "description": "Affordable fitness tracker with heart rate monitoring and sleep tracking.",
-    "tags": ["fitness", "heart-rate", "sleep-tracking"],
-    "badges": ["Best Seller"],
-    "affiliateUrl": "https://www.mi.com/in/mi-smart-band-6/"
-  },
-  {
-    "id": 61,
-    "slug": "sony-headphones-wh1000xm4",
-    "title": "Sony WH-1000XM4 Headphones",
-    "brand": "Sony",
-    "category": "gadgets",
-    "subCategory": "headphones",
-    "images": [
-      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=600&fit=crop"
-    ],
-    "price": 24999,
-    "originalPrice": 29999,
-    "rating": 4.8,
-    "reviewCount": 567,
-    "description": "Premium noise-cancelling headphones with 30-hour battery life.",
-    "tags": ["noise-cancelling", "premium", "30-hour"],
-    "badges": ["Premium", "Best Seller"],
-    "affiliateUrl": "https://www.flipkart.com/sony-wh-1000xm4-headphones/p/itm5f8e6a3c9d2b7"
-  },
-  {
-    "id": 62,
-    "slug": "jbl-speaker-flip-5",
-    "title": "JBL Flip 5 Bluetooth Speaker",
-    "brand": "JBL",
-    "category": "gadgets",
-    "subCategory": "speakers",
-    "images": [
-      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600&h=600&fit=crop"
-    ],
-    "price": 7999,
-    "originalPrice": 9999,
-    "rating": 4.5,
-    "reviewCount": 890,
-    "description": "Portable waterproof speaker with powerful bass and 12-hour playtime.",
-    "tags": ["waterproof", "portable", "12-hour"],
-    "badges": ["Trending"],
-    "affiliateUrl": "https://www.amazon.in/dp/B07QJQBX8T"
   }
 ]
