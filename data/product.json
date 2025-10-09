@@ -441,49 +441,57 @@
   },
   {
     "id": 20,
-    "slug": "cargo-pants-olive-flying-machine",
-    "title": "Flying Machine Cargo Pants",
-    "brand": "Flying Machine",
-    "category": "bottomwear",
-    "subCategory": "cargos",
+    "slug": "allen-solly-men-cotton-solid-regular-fit-shirt",
+    "title": "Allen Solly Men Cotton Solid Regular Fit Shirt",
+    "brand": "Allen Solly",
+    "category": "topwear",
+    "subCategory": "shirts",
     "images": [
-      "https://images.unsplash.com/photo-1624378515195-6bbdb73dff1a?w=600&h=600&fit=crop"
+      "https://m.media-amazon.com/images/I/61ieeS+kZ4L._SY741_.jpg",
+      "https://m.media-amazon.com/images/I/61UjXtJViyL._SY741_.jpg",
+      "https://m.media-amazon.com/images/I/61QXBymx9+L._SY741_.jpg"
+
     ],
-    "price": 2199,
+    "price": 799,
     "tags": [
-      "cargo",
-      "utility",
-      "outdoor"
+      "formal",
+      "cotton",
+      "office"
     ],
-    "affiliateUrl": "https://www.myntra.com/cargo-pants/flying-machine/flying-machine-men-olive-cargo-pants/14567890/buy"
+    "affiliateUrl": "https://amzn.to/46AxBcu"
   },
   {
     "id": 21,
-    "slug": "cotton-pyjamas-white",
-    "title": "Cotton Pyjamas White",
-    "brand": "Jockey",
-    "category": "bottomwear",
-    "subCategory": "pyjamas",
+    "slug": "FLITE Men's Flip Flops Thong Slippers",
+    "title": "FLITE Men's Flip Flops Thong Slippers",
+    "brand": "FLITE",
+    "category": "footwear",
+    "subCategory": "slippers",
     "images": [
-      "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=600&h=600&fit=crop"
+      "https://m.media-amazon.com/images/I/7107IRvzGNL._SY575_.jpg",
+      "https://m.media-amazon.com/images/I/714BMNqU+4L._SY575_.jpg",
+      "https://m.media-amazon.com/images/I/61aQ4h+6d0L._SY575_.jpg"
     ],
-    "price": 899,
+    "price": 249,
     "rating": 4.1,
     "reviewCount": 234,
     "material": "100% Cotton",
-    "affiliateUrl": "https://www.amazon.in/dp/B08H7K9L2M"
+    "affiliateUrl": "https://amzn.to/3VXKtTR"
   },
   {
     "id": 22,
-    "slug": "dhoti-pants-cream-fabindia",
-    "title": "Fabindia Dhoti Pants Cream",
-    "brand": "Fabindia",
-    "category": "bottomwear",
-    "subCategory": "dhoti-pants",
+    "slug": "Boldfit Slippers for Man Feather Light Chappal for Man Anti Skid Sliders for Men Soft Cushioned Slides for Men Casual Mens Sliders for Boys Mens Slippers",
+    "title": "Boldfit Slippers for Man Feather Light Chappal for Man Anti Skid Sliders for Men Soft Cushioned Slides for Men Casual Mens Sliders for Boys Mens Slippers",
+    "brand": "Boldfit",
+    "category": "footwear",
+    "subCategory": "slippers",
     "images": [
-      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=600&fit=crop&hue=40"
+      "https://m.media-amazon.com/images/I/61j-b8MHFwL._SY575_.jpg",
+      "https://m.media-amazon.com/images/I/61sXJQlrp4L._SY575_.jpg",
+      "https://m.media-amazon.com/images/I/61bjO6SpU4L._SY575_.jpg"
     ],
-    "price": 1499,
+    "price": 649,
+    "originalPrice": 1999,  
     "rating": 4,
     "reviewCount": 123,
     "tags": [
@@ -491,50 +499,55 @@
       "ethnic",
       "comfortable"
     ],
-    "affiliateUrl": "https://www.fabindia.com/dhoti-pants-cream/p/FBD567890"
+    "affiliateUrl": "https://amzn.to/4mNAD1H"
   },
   {
     "id": 23,
-    "slug": "mundu-kerala-white",
-    "title": "Kerala Traditional Mundu",
-    "brand": "Kalanjali",
+    "slug": "Puma Unisex Adult Purecat Slider",
+    "title": "Puma Slider",
+    "brand": "PUMA",
     "category": "bottomwear",
-    "subCategory": "mundu",
+    "subCategory": "slippers",
     "images": [
-      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=600&fit=crop&sat=-80"
+      "https://m.media-amazon.com/images/I/41yjsNb0X4L._SY695_.jpg",
+      "https://m.media-amazon.com/images/I/41+9YI61WDL._SY695_.jpg",
+      "https://m.media-amazon.com/images/I/41xRYasCvSL._SY695_.jpg"
     ],
-    "price": 799,
-    "affiliateUrl": "https://www.meesho.com/kerala-traditional-mundu/p/567890123"
+    "price": 549,
+    "affiliateUrl": "https://amzn.to/48lUd1B"
   },
   {
     "id": 24,
-    "slug": "cotton-lungi-blue",
-    "title": "Cotton Lungi Blue Check",
-    "brand": "Ramraj",
-    "category": "bottomwear",
-    "subCategory": "lungis",
+    "slug": "GRECIILOOKS Polo T-Shirt for Men ",
+    "title": "GRECIILOOKS Polo T-Shirt for Men ",
+    "brand": "POLO",
+    "category": "upperwear",
+    "subCategory": "t-shirts  ",
     "images": [
-      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=600&fit=crop&hue=240"
+      "https://m.media-amazon.com/images/I/61gaqZSQHWL._SY741_.jpg",
+      "https://m.media-amazon.com/images/I/51YrPnmub8L.jpg"
     ],
-    "price": 599,
-    "rating": 3.9,
+    "price": 370,
+    "originalPrice": 1599,
+    "rating": 4.2,
     "reviewCount": 89,
     "material": "100% Cotton",
-    "affiliateUrl": "https://www.flipkart.com/ramraj-cotton-lungi/p/itm8d5c3f7e2a9b1"
+    "affiliateUrl": "https://amzn.to/4oadp7d"
   },
   {
     "id": 25,
-    "slug": "nike-air-max-sneakers-white",
-    "title": "Nike Air Max Sneakers",
-    "brand": "Nike",
+    "slug": "ASIAN Men's MEXICO-11 Casual Sneaker Shoes with Synthetic Upper Lightweight Comfortable Mid Top Sneaker Shoes for Men's & Boy's",
+    "title": "ASIAN Men's MEXICO-11 Casual Sneaker Shoes",
+    "brand": "ASIAN",
     "category": "footwear",
     "subCategory": "sneakers",
     "images": [
-      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&h=600&fit=crop",
-      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&h=600&fit=crop&angle=45"
+      "https://m.media-amazon.com/images/I/81R6YbNKOzL._SY575_.jpg",
+      "https://m.media-amazon.com/images/I/71PrO3mfYQL._SY695_.jpg",
+      "https://m.media-amazon.com/images/I/71BGxEJfE5L._SY575_.jpg"
     ],
-    "price": 7999,
-    "originalPrice": 9999,
+    "price": 799,
+    "originalPrice": 1499,
     "rating": 4.6,
     "reviewCount": 2341,
     "tags": [
@@ -545,7 +558,7 @@
     "badges": [
       "Best Seller"
     ],
-    "affiliateUrl": "https://www.amazon.in/dp/B08R7N9T4K"
+    "affiliateUrl": "https://amzn.to/47fFbt9"
   },
   {
     "id": 26,
