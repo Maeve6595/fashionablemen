@@ -562,16 +562,18 @@
   },
   {
     "id": 26,
-    "slug": "clarks-formal-shoes-brown",
-    "title": "Clarks Formal Leather Shoes",
-    "brand": "Clarks",
-    "category": "footwear",
-    "subCategory": "formal-shoes",
+    "slug": "TAGDO-Men-Flap-Pocket-Side-Cargo-Trousers",
+    "title": "TAGDO Men Flap Pocket Side Cargo Trousers",
+    "brand": "TAGDO",
+    "category": "bottomwear",
+    "subCategory": "cargo-pants",
     "images": [
-      "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=600&h=600&fit=crop"
+      "https://m.media-amazon.com/images/I/51c4u4+0rfL._SY741_.jpg",
+      "https://m.media-amazon.com/images/I/71Fnyzk-alL._SY741_.jpg",
+      ""
     ],
-    "price": 5999,
-    "originalPrice": 7999,
+    "price": 679,
+    "originalPrice": 2899,
     "rating": 4.4,
     "reviewCount": 456,
     "tags": [
@@ -580,38 +582,42 @@
       "office"
     ],
     "material": "Genuine Leather",
-    "affiliateUrl": "https://www.myntra.com/formal-shoes/clarks/clarks-men-brown-formal-leather-shoes/18901234/buy"
+    "affiliateUrl": "https://amzn.to/4n74Vg9"
   },
   {
     "id": 27,
-    "slug": "woodland-casual-shoes-tan",
-    "title": "Woodland Casual Shoes Tan",
-    "brand": "Woodland",
-    "category": "footwear",
-    "subCategory": "casual-shoes",
+    "slug": "Thomas Scott Men's | Solid | Light Weight | Breathable Fabric | 5 Pocket | Mid Rise | Slim Fit | Linen | Button with Drawstring | Chino Trouser | Pants",
+    "title": "Thomas Scott Men's Chino Trouser",
+    "brand": "Thomas Scott",
+    "category": "bottomwear",
+    "subCategory": "trousers",
     "images": [
-      "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=600&h=600&fit=crop"
+      "https://m.media-amazon.com/images/I/61SCESqheNL._SY741_.jpg",
+      "https://m.media-amazon.com/images/I/61HBBaSYSZL._SY741_.jpg",
+      "https://m.media-amazon.com/images/I/6164hVpcDtL._SY741_.jpg"
     ],
-    "price": 3999,
+    "price": 799,
     "rating": 4.2,
     "reviewCount": 678,
     "badges": [
       "Trending"
     ],
-    "affiliateUrl": "https://www.flipkart.com/woodland-casual-shoes/p/itmc4e8f6a9b2d3e"
+    "affiliateUrl": "https://amzn.to/437JSCU"
   },
   {
     "id": 28,
-    "slug": "adidas-sports-shoes-black",
-    "title": "Adidas Running Sports Shoes",
-    "brand": "Adidas",
-    "category": "footwear",
-    "subCategory": "sports-shoes",
+    "slug": "AVANOVA Bell-Bottom Men Cargo Jeans II Men Cargo Pants II Denim Cargo for Men II Cotton Pant II Wide Legs II Flap Pockets II Cargo for Men",
+    "title": "AVANOVA Bell-Bottom Men Cargo Jeans",
+    "brand": "AVANOVA",
+    "category": "bottomwear",
+    "subCategory": "cargo-pants",
     "images": [
-      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=600&h=600&fit=crop"
+      "https://m.media-amazon.com/images/I/71KqOXMqYBL._SY741_.jpg",
+      "https://m.media-amazon.com/images/I/71VbEo-qpYL._SY741_.jpg",
+      "https://m.media-amazon.com/images/I/71dwguesbUL._SY741_.jpg"
     ],
-    "price": 4999,
-    "originalPrice": 6499,
+    "price": 699,
+    "originalPrice": 5999,
     "rating": 4.5,
     "reviewCount": 890,
     "tags": [
@@ -622,19 +628,21 @@
     "badges": [
       "New"
     ],
-    "affiliateUrl": "https://www.adidas.co.in/ultraboost-21-shoes/FY0378.html"
+    "affiliateUrl": "https://amzn.to/3WlWwL3"
   },
   {
     "id": 29,
-    "slug": "nike-running-shoes-blue",
-    "title": "Nike Revolution Running Shoes",
-    "brand": "Nike",
-    "category": "footwear",
-    "subCategory": "running-shoes",
+    "slug": "Bewakoof Men's Cotton Oversized Fit Joggers|Bewakoof Air 1.0 | Track pants for man | Lower for man | Trouser for men | Baggy trackpants for men | Multipurpose | Mens Lower Activewear | Utility Pockets | Lightweight & Flexible Elastic Waist | Casual Joggers | Loose Fit",
+    "title": "Bewakoof Men's Cotton Oversized Fit Joggers",
+    "brand": "Bewakoof",
+    "category": "bottomwear",
+    "subCategory": "joggers",
     "images": [
-      "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=600&h=600&fit=crop"
+      "https://m.media-amazon.com/images/I/51kCAjntP0L._SY741_.jpg",
+      "https://m.media-amazon.com/images/I/51nQ6XWNiFL._SY741_.jpg",
+      "https://m.media-amazon.com/images/I/51ZabETMmEL._SY741_.jpg"
     ],
-    "price": 3999,
+    "price": 799,
     "rating": 4.3,
     "reviewCount": 567,
     "tags": [
@@ -642,11 +650,11 @@
       "foam",
       "comfortable"
     ],
-    "affiliateUrl": "https://www.ajio.com/nike-revolution-running-shoes/p/461234567_blue"
+    "affiliateUrl": "https://amzn.to/4nLKMNI"
   },
   {
     "id": 30,
-    "slug": "bata-sandals-brown",
+    "slug": "Mehrang Track Pant for Men || Joggers for Men for Running || Gym Sports Lower for Men & Boys Track Pants for Men Multipurpose || Mens Lower Activewear Cargo Pant",
     "title": "Bata Comfort Sandals Brown",
     "brand": "Bata",
     "category": "footwear",
