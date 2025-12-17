@@ -935,5 +935,32 @@
       "New"
     ],
     "affiliateUrl": "https://amzn.to/47aoQWT"
+  },
+  {
+    "id": 42,
+    "slug": "",
+    "title": "Coffee Mug Warmer Electric Cup Heater | Waterproof Heating ",
+    "brand": "Presents",
+    "category": "fashion-accessories",
+    "subCategory": "electronics",
+    "images": [
+      "https://m.media-amazon.com/images/I/51TnSE1shJL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61NPJ0A4M5L._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61C36dTSihL._SX679_.jpg"
+    ],
+    "price": 1000,
+    "originalPrice": 499,
+    "rating": 4.3,
+    "reviewCount": 567,
+    "tags": [
+      "cordless",
+      "titanium",
+      "grooming"
+    ],
+    "badges": [
+      "New"
+    ],
+    "affiliateUrl": "https://amzn.to/4s2tTkt"
   }
+
 ]
